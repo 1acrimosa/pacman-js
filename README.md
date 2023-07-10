@@ -11,7 +11,7 @@
 
 ## Thanks
 
-Thanks for : https://www.youtube.com/watch?v=GXlckaGr0Eo--
+Thanks for : https://www.youtube.com/watch?v=GXlckaGr0Eo <br />
 Hope you enjoy!
 
 ---
