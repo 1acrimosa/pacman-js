@@ -11,6 +11,7 @@ Welcome to the world of Pacman! This is a classic arcade game that has been enjo
 ## Features
 
 With this code, all ghosts have a red circle from which you can see their angle of view.
+(ghost.js , draw())
 
 ```javascript
  canvasContext.strokeStyle = "red";
