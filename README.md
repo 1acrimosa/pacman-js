@@ -11,6 +11,17 @@ In this project, we have recreated the iconic Pacman game with a modern touch.
 
 ## Features
 
+'''javascript
+ canvasContext.strokeStyle = "red";
+         canvasContext.arc(
+             this.x + oneBlockSize / 2,
+             this.y + oneBlockSize / 2,
+             this.range * oneBlockSize,
+             0,
+             2 * Math.PI
+         );
+'''
+
 ---
 
 ## Screenshots
