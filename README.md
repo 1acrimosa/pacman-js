@@ -1,4 +1,4 @@
-# Pacman
+# Pacman Game developed by JavaScript
 
 ---
 
