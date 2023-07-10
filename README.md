@@ -21,6 +21,7 @@ In this project, we have recreated the iconic Pacman game with a modern touch.
              2 * Math.PI
          );
 ```
+![Screenshot](3.png)
 
 ---
 
