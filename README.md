@@ -5,13 +5,14 @@
 ## Description
 
 Welcome to the world of Pacman! This is a classic arcade game that has been enjoyed by generations of gamers since its introduction in 1980. <br />
+I develop own pacman, so everyone can change color, texture and speed of objects.
 
 ---
 
 ## Features
 
-With this code, all ghosts have a red circle from which you can see their angle of view.
-(ghost.js , draw())
+With this code, all ghosts have a red circle from which you can see their angle of view. <br />
+(file: ghost.js , method: draw())
 
 ```javascript
  canvasContext.strokeStyle = "red";
@@ -28,6 +29,8 @@ With this code, all ghosts have a red circle from which you can see their angle 
 ---
 
 ## Screenshots
+
+Screenshots from game. <br />
 
 ![Screenshot](1.png)
 ![Screenshot](2.png)
