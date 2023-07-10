@@ -1,7 +1,5 @@
 # Pacman Game developed by JavaScript
 
----
-
 ## Description
 
 Welcome to the world of Pacman! This is a classic arcade game that has been enjoyed by generations of gamers since its introduction in 1980. <br />
@@ -24,6 +22,9 @@ With this code, all ghosts have a red circle from which you can see their angle 
              2 * Math.PI
          );
 ```
+
+---
+
 ![Screenshot](3.png)
 
 ---
@@ -41,5 +42,3 @@ Screenshots from game. <br />
 
 Thanks for : https://www.youtube.com/watch?v=GXlckaGr0Eo <br />
 Hope you enjoy!
-
----
