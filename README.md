@@ -40,5 +40,5 @@ Screenshots from game. <br />
 
 ## Thanks
 
-Thanks for : https://www.youtube.com/watch?v=GXlckaGr0Eo <br />
+Thanks for : @ServetGulnaroglu <br />
 Hope you enjoy!
