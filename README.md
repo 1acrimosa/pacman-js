@@ -25,7 +25,7 @@ With this code, all ghosts have a red circle from which you can see their angle 
 
 ---
 
-![Screenshot](<img src='https://github.com/1acrimosa/pacman-js/blob/main/3.png' width='100'>)
+![Screenshot](<img src='https://github.com/1acrimosa/pacman-js/3.png' width='100'>)
 
 ---
 
