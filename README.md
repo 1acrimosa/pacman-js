@@ -25,7 +25,7 @@ With this code, all ghosts have a red circle from which you can see their angle 
 
 ---
 
-<img src='3.png' width='250'>
+<img src='3.png' height='500' width='500'>
 
 ---
 
