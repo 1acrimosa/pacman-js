@@ -33,9 +33,8 @@ With this code, all ghosts have a red circle from which you can see their angle 
 
 Screenshots from game. <br />
 
-| ![Screenshot](1.png) |
-| ------------- | ------------- |
-|   ![Screenshot](2.png)         |
+![Screenshot](1.png) 
+![Screenshot](2.png)       
 
 ---
 
